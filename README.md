@@ -47,25 +47,17 @@ Rather than connecting to a backend, this project focuses on **polished visuals*
 
 ## Screenshots
 
-### Landing Page — Light Mode
-![Light Mode Hero Section](assets/Screenshot.png)  
+### Landing Page — Dark Mode
+![Dark Mode Hero Section](assets/Screenshot5.png)  
 *Shows the hero section with a clean white background, headline text, and featured image on the right.*
 
 ### Landing Page — Dark Mode with Stories
-![Dark Mode Story](assets/Screenshot2.png)  
-*Dark mode enabled, with the story section loaded dynamically.*
+![Dark Mode Story](assets/Screenshot.png)  
 
 ### Story Modal Example
-![Story Modal UI](assets/Screenshot3.png)  
-*High-quality image displayed instantly inside the story viewer.*
-
-### Event Grid
-![Event Grid UI](assets/Screenshot4.png)  
-*Showcasing Music, Art, and Conference event cards with category tags.*
-
-### Curated Event Section
-![Curated Section](assets/Screenshot5.png)  
-*Highlighting events in a curated list with hover animations.*
+![Story Modal UI](assets/Screenshot2.png)  
+![Event Grid UI](assets/Screenshot3.png)  
+![Curated Section](assets/Screenshot4.png)  
 
 ---
 

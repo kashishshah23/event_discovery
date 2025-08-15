@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth theme transitions */
+* { transition: color 200ms ease, background-color 200ms ease, border-color 200ms ease; }
+
+/* Better default fonts/features */
+body { font-feature-settings: 'rlig' 1, 'calt' 1; }
+
+/* Reusable card styles */
+.card {
+  @apply bg-white/80 dark:bg-neutral-900/80 rounded-2xl shadow-lg backdrop-blur p-4;
+  @apply border border-white/10 dark:border-white/5;
+}

@@ -48,7 +48,7 @@ Rather than connecting to a backend, this project focuses on **polished visuals*
 ## Screenshots
 
 ### Landing Page — Light Mode
-![Light Mode Hero Section](assets/Screenshot.png)  
+![Light Mode Hero Section](assets/ScreenshoT.png)  
 *Shows the hero section with a clean white background, headline text, and featured image on the right.*
 
 ### Landing Page — Dark Mode with Stories
